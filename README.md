@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshat Jaiswal</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshat-Jaiswal-8&theme=onedark" alt="akshat-jaiswal-8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshat-Jaiswal-8&theme=monokai" alt="akshat-jaiswal-8" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/akshat_twt" target="blank"><img src="https://img.shields.io/twitter/follow/akshat_twt?logo=twitter&style=for-the-badge" alt="akshat_twt" /></a> </p>
 
