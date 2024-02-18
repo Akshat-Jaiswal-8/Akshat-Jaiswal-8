@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-jaiswal-8" alt="akshat-jaiswal-8" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshat-jaiswal-8&icon=3&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Akshat-Jaiswal-8&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
