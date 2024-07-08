@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋! My name is Akshat and I'm a Full stack developer and open source contributor from India.</h1>
+<h1 align="center">Hey 👋! I'm Akshat !</h1>
 
 ###
 
-<div align="center">
+<p align="left">I'm Akshat Jaiswal a Full Stack Web Developer from Inda. I Spend most of my time coding unique projects. I also love to contribute to the open-source projects 💻 and participate in hackathons and network with amazing people in the communiy.</p>
+
+###
+
+<p align="left">🔭I’m currently working on Team Sync, platform to find amazing hackathons and also connect with the mentors and peers.<br><br>🌱 I’m currently learning Machine Learning and Data structure and algorithms.<br><br>❓ Ask me about anything related to Full stack development in React.JS Next.JS and Node.JS.<br><br>📫 You can reach me here : akshatjaiswal.official@gmail.com</p>
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Jaiswal-8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Akshat-Jaiswal-8&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat-Jaiswal-8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -92,15 +96,21 @@
 
 ###
 
+<img align="right" height="150" src="https://th.bing.com/th/id/OIG2.HUDzS4NNPwcmr2HHatiM?w=1024&h=1024&rs=1&pid=ImgDetMain"  />
+
+###
+
 <div align="left">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <a href="akshatjaiswal.official@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/akshat-jaiswal-aj/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/akshat_twt">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -111,14 +121,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshat-Jaiswal-8.Akshat-Jaiswal-8&left_color=gray&right_color=blue"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=akshatjaiswal.official&theme=github_dark" alt="Layout with last medium posts"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshat-Jaiswal-8.Akshat-Jaiswal-8&left_color=gray&right_color=blueviolet"  />
 </div>
 
 ###
