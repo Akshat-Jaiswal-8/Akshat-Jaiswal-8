@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Akshat Jaiswal a Full Stack Web Developer from Inda. I Spend most of my time coding unique projects. I also love to contribute to the open-source projects 💻 and participate in hackathons and network with amazing people in the communiy.</p>
+<p align="left">I'm Akshat Jaiswal a Full Stack Web Developer from Inda.I am currently working remotely as a frontend dev at kaliper,India. I Spend most of my time coding unique projects. I also love to contribute to the open-source projects 💻 and participate in hackathons and network with amazing people in the communiy.</p>
 
 ###
 
